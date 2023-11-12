@@ -1,6 +1,6 @@
 ## Homework 03
 
-### The first part is for streams
+### The first part is for threads
 
 We wrote a program for processing the folder `"folder1"`, which `sorts` files in the specified folder by extensions using several streams. Accelerated processing of attached directories and files due to parallel execution 
 of traversal of all folders in separate threads. The most time-consuming will be transferring a file and getting a list of files in a folder (iteration over the contents of the directory).
