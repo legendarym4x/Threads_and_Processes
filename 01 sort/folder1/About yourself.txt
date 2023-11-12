@@ -1,0 +1,9 @@
+Hello!
+My name is Maksim Nesterovskyi. 
+I am 33 years old.
+I was born and live in Kamianske, which is near the city of Dnipro. My city is famous for a lot of factories and bad air.
+I finished school in 2006. I completed my higher education in 2011, my specialty is a mechanical engineer.
+I've been playing online poker for quite some time now. In my free time I can play football or go to the gym. We also watch with friends football or cybersport on TV. I also like to read books or develop in my future profession in IT.
+As for my character, I am a kind and reliable person.
+In the future, I want to be a successful Python developer and will do my best to achieve this.
+Thank you for your attention!
