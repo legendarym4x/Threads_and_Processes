@@ -14,3 +14,4 @@ Implemented the synchronous version and measured the execution time.
 Then improved the performance of our function by implementing multiple CPU cores for parallel computation and measured the execution time again.
 
 The `cpu_count()` function from the `multiprocessing` package was used to determine the number of cores on the machine.
+
